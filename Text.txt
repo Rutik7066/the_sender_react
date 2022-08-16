@@ -1,0 +1,27 @@
+toStringUser
+    Name
+    Number
+    Bussiness Name
+    Credite
+    Payment History
+    Campaign History
+
+
+
+Campaign 
+    Title
+    Attachment 
+    Message
+    Contact List
+    TimeStamp 
+    Date
+    Status
+    Report
+
+
+
+payment history 
+    TimeStamp 
+    Payment method
+    Date 
+    credite
