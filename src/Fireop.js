@@ -7,13 +7,13 @@ import {
 } from "firebase/firestore";
 import { getDownloadURL, getStorage, ref, uploadBytes } from "firebase/storage";
 const app = initializeApp({
-  apiKey: "AIzaSyCAxgIxxwonb9KDsnl14anK4D40VSHq3TI",
-  authDomain: "thesender-f9515.firebaseapp.com",
-  projectId: "thesender-f9515",
-  storageBucket: "thesender-f9515.appspot.com",
-  messagingSenderId: "847096843210",
-  appId: "1:847096843210:web:e6a58bd0e856ae1be55d33",
-  measurementId: "G-68LMG5SZMH",
+  apiKey: "AIzaSyAA236w4KDzONa3hKpmAoIrafNA_8cSyjU",
+  authDomain: "thesender-6d3a3.firebaseapp.com",
+  projectId: "thesender-6d3a3",
+  storageBucket: "thesender-6d3a3.appspot.com",
+  messagingSenderId: "202665284161",
+  appId: "1:202665284161:web:7b6383eb20aa16c80becc0",
+  measurementId: "G-TMBZSZ36FT"
 });
 export const auth = getAuth(app);
 export const store = getFirestore(app);
